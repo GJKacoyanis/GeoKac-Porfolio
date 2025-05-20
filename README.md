@@ -8,6 +8,13 @@ This site showcases my background, projects, and professional interests in **dat
 I'm an analytical thinker with a goal to use data science and analytics tools to create insights and optimize strategies.
 
 ## 📚Education
+** Florida State University **
+Bachelor's of Science in Statistics
+Graduated May 2023
+
+** Florida Gulf Coast University **
+Master's of Business Administration Concentrated in Data Analytics
+Graduated May 2025
 
 ## 📁Projects Featured
 
