@@ -10,13 +10,11 @@ I'm an analytical thinker with a goal to use data science and analytics tools to
 ## 📚Education
 **Florida State University**
   
-  Bachelor's of Science in Statistics
- - Graduated May 2023
+  Bachelor's of Science in Statistics - Graduated May 2023
 
 **Florida Gulf Coast University**
   
-  Master's of Business Administration Concentrated in Data Analytics
- - Graduated May 2025
+  Master's of Business Administration Concentrated in Data Analytics - Graduated May 2025
 
 ## 📁Projects Featured
 
