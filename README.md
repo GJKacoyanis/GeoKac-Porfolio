@@ -1,4 +1,4 @@
-# # George Kacoyanis | Data Analyst & AI Enthusiast
+# # George Kacoyanis | Data Analyst & Data Science Enthusiast
 
 Welcome to my portfolio!  
 This site showcases my background, projects, and professional interests in **data analytics, machine learning, and business intelligence**.
