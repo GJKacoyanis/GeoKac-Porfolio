@@ -5,7 +5,7 @@ This site showcases my background, projects, and professional interests in **dat
 
 ## About Me
 
-I'm an analytical thinker with a goal to use data science and analytics tools to create insights and optimize strategies.
+  I'm an analytical thinker with a goal to use data science and analytics tools to create insights and optimize strategies. Currently use my math skills to train AI to improve it's Math reasoning abilities. 
 
 ## 📚Education
 **Florida State University**
@@ -26,7 +26,13 @@ I'm an analytical thinker with a goal to use data science and analytics tools to
 
 - **Image Denoising using Bayesian Analysis**
   A Bayesian image denoising project using Markov Random Fields, Gibbs Sampling, and Metropolis-Hastings. Replacing different sigma values from the proposed ones, from 0.01 to 1, to find the best sigmas for denoising the image.
----
+
+- **PowerBI and Python Data Visualizations**
+  Using Python and PowerBI to create serval data visualizations using multiple datasets. Implemented PowerBI functions such as DAX and Power Querying.
+
+- **Python Machine Learning**
+  The projects consist of methods using matplotlib and numpy libraries to create conditionals, loops and functions, plots, Monte Carlo simulation of random processes and for business applications, polynomial regression, k-means clustering, And Artificial Neural Networks.
+  
 
 ##  📫Contact
 
