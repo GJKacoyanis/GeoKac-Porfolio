@@ -19,7 +19,7 @@ I'm an analytical thinker with a goal to use data science and analytics tools to
 ## 📁Projects Featured
 
 - **Machine Learning Data Exploration in Excel**  
-  Exploratory data analysis for the Boston Housing Area to find the drivers in housing prices, using Frontline Data Solver in Excel to conduct these methods: Principle Componenet Analysis, Correlation Analysis, Regression analysis (Multi-Variate Linear and Logisitc), Regression and Classification Trees, Random Trees, Neural Networks, K-Nearest Neighbors Means Clustering, and boosting/bagging classification and regression ensembles.
+  Exploratory data analysis for the Boston Housing Area to find the drivers in Median Value of Owner-Occupied Homes, using Frontline Data Solver in Excel to conduct these methods: Principle Componenet Analysis, Correlation Analysis, Regression analysis (Multi-Variate Linear and Logisitc), Regression and Classification Trees, Random Trees, Neural Networks, K-Nearest Neighbors Means Clustering, and boosting/bagging classification and regression ensembles.
 
 - **ARIMA Forecasting using SAS**
   Forecasting transportation patterns and variable temperatures using SAS to apply ARIMA models with seasonal differencing, log transformation, and residual diagnostics to forecast monthly temperature and transportation time series data, selecting models based on AIC/SBC and validating with autocorrelation checks and confidence intervals.
