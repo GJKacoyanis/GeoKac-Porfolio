@@ -17,7 +17,9 @@ This site showcases my background, projects, and professional interests in **dat
   Master's of Business Administration Concentrated in Data Analytics - Graduated May 2025
 
 ## 📁Projects Featured
-
+- **‎India T-Shirt Sales Data Exploration in PowerBI**
+  Using PowerBI to analyze the revenue of T-Shirts in India. Created several measurements using DAX to create Month over Month Time Series growth between 2017-2018. Used a Year slicer, a pie chart, funnel chart, Scorecards. Used Power Querying and Dax to crete a date table and a relationship of 1 to many between the dates in the date table and order dates.
+  
 - **Machine Learning Data Exploration in Excel**  
   Exploratory data analysis for the Boston Housing Area to find the drivers in Median Value of Owner-Occupied Homes, using Frontline Data Solver in Excel to conduct these methods: Principle Componenet Analysis, Correlation Analysis, Regression analysis (Multi-Variate Linear and Logisitc), Regression and Classification Trees, Random Trees, Neural Networks, K-Nearest Neighbors Means Clustering, and boosting/bagging classification and regression ensembles.
 
